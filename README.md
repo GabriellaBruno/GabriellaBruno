@@ -15,4 +15,4 @@
 
 **Connect:**
 - LinkedIn:
-in/gabriella-bruno-cs2028/
+in/gabriella-bruno-cs2028
