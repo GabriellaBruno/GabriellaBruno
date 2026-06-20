@@ -1,16 +1,14 @@
-## Hi there 👋
+## Gabriella Bruno
 
-<!--
-**GabriellaBruno/GabriellaBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me:**
+- Rising junior at Saint Joseph's University
+- Computer Science major
+- Mathematics minor 
 
-Here are some ideas to get you started:
+**Skills:**
+- Currently learning Java and C
+- Check out my most recent project pinned below!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect:**
+- LinkedIn:
+https://www.linkedin.com/in/gabriella-bruno-cs2028/
