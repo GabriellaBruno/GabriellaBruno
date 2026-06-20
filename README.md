@@ -7,6 +7,7 @@
 
 **Skills:**
 - Currently learning Java and C
+- Most experience in Java, with some experience in C and MySQL
 - Check out my most recent project pinned below!
 
 **Connect:**
