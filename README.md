@@ -1,7 +1,7 @@
 ## Gabriella Bruno
 
 **About Me:**
-- Rising junior at Saint Joseph's University
+- Junior at Saint Joseph's University
 - Computer Science major
 - Mathematics minor 
 
